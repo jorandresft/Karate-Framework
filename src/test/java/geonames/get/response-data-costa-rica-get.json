@@ -1,10 +1,10 @@
 {
-  "sunrise": "2024-07-22 05:28",
+  "sunrise": "#string",
   "lng": -85,
   "countryCode": "CR",
   "gmtOffset": -6,
   "rawOffset": -6,
-  "sunset": "2024-07-22 18:04",
+  "sunset": "#string",
   "timezoneId": "America/Costa_Rica",
   "dstOffset": -6,
   "countryName": "Costa Rica",
